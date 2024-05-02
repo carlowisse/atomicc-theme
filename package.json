@@ -1,0 +1,32 @@
+{
+  "name": "atomicc",
+  "publisher": "carlowisse",
+  "displayName": "Atomicc",
+  "description": "A very dark theme with a clean and minimal UI structure, vibrant syntax and green terminal.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "icon": "icon/icon.png",
+  "author": {
+    "name": "Carlo Wisse",
+    "email": "contact@carlowisse.com",
+    "url": "https://carlowisse.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlowisse/atomicc-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atomicc",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atomicc.json"
+      }
+    ]
+  }
+}
