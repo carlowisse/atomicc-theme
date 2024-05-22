@@ -5,7 +5,7 @@
   "description": "A very dark theme with a clean and minimal UI structure, vibrant syntax and green terminal.",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^1.66.0"
   },
   "icon": "icon/icon.png",
   "author": {
