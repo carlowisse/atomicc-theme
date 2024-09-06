@@ -71,12 +71,6 @@ code .
 * Select the token you want to use
 * Click Regenerate
 
-### PACKAGING
-> Creates a .vsix file for manual uploading to the marketplace
-```bash
-vsce package
-```
-
 ### PUBLISHING
 > Automatically uploads the .vsix file to the marketplace (initially)
 ```bash
@@ -94,4 +88,10 @@ vsce publish patch
 vsce publish minor
 
 vsce publish major
+```
+
+### PACKAGING
+> Creates a .vsix file for manual uploading to the marketplace
+```bash
+vsce package
 ```
