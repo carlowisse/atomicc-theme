@@ -226,7 +226,7 @@
     "sideBar.dropBackground": "#222222",
     "sideBar.foreground": "#cccccc",
     "sideBarSectionHeader.background": "#00000000",
-    "sideBarSectionHeader.border": "#19191900",
+    "sideBarSectionHeader.border": "#222222",
     "sideBarSectionHeader.foreground": "#eeeeee",
     "sideBarTitle.foreground": "#eeeeee",
     "statusBar.background": "#191919",
@@ -280,7 +280,7 @@
     "titleBar.border": "#222222",
     "titleBar.inactiveBackground": "#191919",
     "titleBar.inactiveForeground": "#cccccc",
-    "tree.indentGuidesStroke": "#cccccc50",
+    "tree.indentGuidesStroke": "#cccccc",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "widget.shadow": "#00000050"
   },
