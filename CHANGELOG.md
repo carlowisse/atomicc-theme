@@ -1,6 +1,9 @@
+## Version 1.1.3
+* Updated tree indent lines to be more visible
+
 ## Version 1.1.2
 * Optimised hexidecimal color values
-
+*
 ## Version 1.1.1
 * Re-instated title bar borders for better visibility
 * Adjusted active line background color for better contrast
