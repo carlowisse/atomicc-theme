@@ -1,3 +1,6 @@
+## Version 1.1.2
+* Optimised hexidecimal color values
+
 ## Version 1.1.1
 * Re-instated title bar borders for better visibility
 * Adjusted active line background color for better contrast
